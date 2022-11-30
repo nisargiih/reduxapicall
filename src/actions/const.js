@@ -1,0 +1,3 @@
+export const FATCH_DATA = 'FATCH_DATA';
+export const SUCESS_FATCH_DATA = 'SUCESS_FATCH_DATA';
+export const ERROR_FATCH_DATA = 'ERROR_FATCH_DATA';  
